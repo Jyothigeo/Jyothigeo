@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jyothi Prativadi
-- 👀 I’m interested in Data science and analytics projects and would like to learn in depth details related to deployment of the cloud models.
-- 🌱 I’m currently also Upskilling in AWS
-- 💞️ I’m looking to collaborate on Data science related projects and deployment in cloud
+- 👀 I’m interested in Data science and analytics projects 
+- 🌱 I’m certified Cloud practitioner
+- 💞️ I’m looking to collaborate on Data science related projects
 - 📫 Reach me out @ jojeet1512@gmail.com
 
 <!---
